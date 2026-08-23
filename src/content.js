@@ -18,7 +18,7 @@ const content = {
   event: {
     dateLabel: "September 19–20, 2026",
     timeLabel: "Sat 12–7pm · Sun 12-5pm",
-    locationName: "SMSJB",
+    locationName: "SMSJB, 984 Kingston Rd, Pickering",
     address: "984 Kingston Rd, Pickering",
     mapUrl: "https://www.google.com/maps/place/St.+Mary+St.+John+The+Beloved+Coptic+Orthodox+Church/@43.8244676,-79.1044034,15z/data=!4m6!3m5!1s0x89d4cea6f6e9c9d1:0xad377f2c73e9e63e!8m2!3d43.8254643!4d-79.102285!16s%2Fg%2F11clrb93ch?entry=ttu&g_ep=EgoyMDI2MDgxMi4wIKXMDSoASAFQAw%3D%3D",
   },
