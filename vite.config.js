@@ -7,5 +7,5 @@ import react from '@vitejs/plugin-react'
 // repo named exactly <username>.github.io), leave base as '/'.
 export default defineConfig({
   plugins: [react()],
-  base: '/festival-website/',
+  base: '/SMSJBFestival2026/',
 })

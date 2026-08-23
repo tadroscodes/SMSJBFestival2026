@@ -37,7 +37,7 @@ const content = {
     {
       title: "Car Wash",
       time: "All Weekend",
-      description: "Get your car hand-washed by our special volunteers while you enjoy the festivities!",
+      description: "Get your car hand-washed by our volunteers while you enjoy the festivities!",
     },
     {
       title: "Dunk Tank",
