@@ -88,7 +88,7 @@ const content = {
       {
         tier: "",
         names: [
-          { name: "Ayman Tanios" },
+          { name: "Ayman Tanios - Counselling For Success" },
           ]
       },
       {
