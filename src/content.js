@@ -89,8 +89,6 @@ const content = {
         tier: "",
         names: [
           { name: "Ayman Tanios" },
-          { name: "Glamour Jewelry"},
-
           ]
       },
       {
@@ -106,7 +104,10 @@ const content = {
           { name: "Durham Dental Centres", 
             logo: "images/sponsors/durham-dental.jpeg"
           },
-          { name: "SurNet" ,
+          { name: "Glamorous Jewelry",
+            logo: "images/sponsors/glamourous.jpeg",
+          },
+          { name: "SurNet Insurance" ,
             logo: "images/sponsors/surnet.png"
           },
         ],
