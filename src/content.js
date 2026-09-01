@@ -80,6 +80,28 @@ const content = {
     note: "Tours are free and open to all, no registration required. We ask that all are respectful of the church - please limit noise and refrain from eating and drinking inside the chapel.",
   },
 
+  vendors: {
+    heading: "Festival Vendors",
+    body: "Visit these local vendors throughout the weekend for food, crafts, and goods.",
+    list: [
+      { name: "Coptic Orphans ", url: "" },
+      { name: "Elia Insurance ", url: "" },
+      { name: "EmberRoot Hot Sauce", url: "" },
+      { name: "Gigy Oweda", url: "" },
+      { name: "Khalil Jewelry ", url: "" },
+      { name: "Lumie.Art", url: "" },
+      { name: "Glamorous Jewelry", url: "" },
+      { name: "Marianne Botros Headscarfs", url: "" },
+      { name: "MM Jewelry ", url: "" },
+      { name: "Pharaoh's choice ", url: "" },
+      { name: "Princess Jewelry ", url: "" },
+      { name: "Restore", url: "" },
+      { name: "Silver Rose Jewelry", url: "" },
+      { name: "The Nile Valley ", url: "" },
+      { name: "The World Light ", url: "" },
+    ],
+  },
+
   sponsors: {
     heading: "With Gratitude to Our Sponsors",
     body: "This festival is made possible by the generosity of local businesses and families who support our church community.",
