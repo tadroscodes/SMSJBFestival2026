@@ -9,6 +9,8 @@ export default function Hero() {
       <nav className="hero__nav">
         <span className="hero__church-name">{church.shortName}</span>
         <a className="hero__nav-link" href="#tours">Tours</a>
+        <a className="hero__nav-link" href="#map">Festival Map</a>
+        <a className="hero__nav-link" href="#vendors">Vendors</a>
         <a className="hero__nav-link" href="#sponsors">Sponsors</a>
       </nav>
 
